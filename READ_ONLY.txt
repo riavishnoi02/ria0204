@@ -1,0 +1,28 @@
+The todo-list-mamangement-system has been developed mainly with the concepts of Spring MVC and Hibernate.
+It depicts basic CRUD functionality along with login page basic functionality.
+
+We have a registration page and a login page .
+Only after a successful login will a user be able to see the contents and list of tasks .
+A user can add new tasks , update them and delete them from the list .
+User can mark the task with different status as well .
+
+Hope you like a short and a simple application which I tried to complete without using any complicated logic and adapting simple and basic approach .
+
+
+Due to time restrictions , my main agenda was to make the application working .
+
+1. I used simple JSP for front end logics . I would have used java scripts and html to make the presentation look good if time permitted.
+2. I used basic sql queries for crud application . I would have made the project much adavanced if I had time .For Example : I would have made a link between the users and tasks table which would have made only those tasks displayed which were assigned to a particular user and not all tasks at one go.
+3. I would have made a use of pick date calender for entering date while adding tasks if I had more time.
+4. The application is very basic without much use of frountend functionalities available .If I had some more time , I would have invested it in some cosmetic work to enhance the application.
+5. I would have added more meaningful comments while coding for others to understand my code logic.
+6. I would have added a better security structure in passwords if I had more time .
+
+FYI :
+I have used mysql for hibernate connectivity
+username is :springstudent
+password is : springstudent
+
+
+
+Thanks.
